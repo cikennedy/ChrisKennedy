@@ -1,1 +1,65 @@
-# updated-portfolio
+# Updated Professional Portfolio
+  ![GitHub License](https://img.shields.io/badge/license-MIT-yellow.svg)
+
+  ## Description
+
+  This is an updated version of my professional portfolio featuring a cleaner feel, mobile compatability, and new projects.
+
+  ## Table of Contents
+
+  * [Installation](#installation)
+
+  * [Usage](#usage)
+
+  * [Credits](#credits)
+  
+  * [License](#license)
+
+  * [Badges](#badges)
+
+  * [Features](#features)
+
+  * [Contribution](#contribution)
+
+  * [Tests](#tests)
+
+  * [Questions](#questions)
+
+  ## Installation
+
+  For this project to run properly, install the necessary dependencies by using the following terminal command: N/A
+
+  ## Usage
+
+  N/A
+
+  ## Credits
+
+  N/A
+
+  ## License
+
+  This project is licensed using the MIT license.
+
+  ## Badges
+
+  ![GitHub License](https://img.shields.io/badge/license-MIT-yellow.svg)
+
+  ## Features
+
+  N/A
+
+  ## Contribution
+
+  N/A
+
+  ## Tests
+
+  N/A
+
+  ## Questions
+
+  If you have any questions or feedback about the project, please contact me by email at [Kennedy.ChristopherIan@gmail.com](mailto:Kennedy.ChristopherIan@gmail.com). 
+
+  Other projects and work are featured at [cikennedy](https://github.com/cikennedy).
+
