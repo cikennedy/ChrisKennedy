@@ -7,8 +7,6 @@
 
   ## Table of Contents
 
-  * [Usage](#usage)
-
   * [Credits](#credits)
   
   * [License](#license)
@@ -16,10 +14,6 @@
   * [Badges](#badges)
 
   * [Questions](#questions)
-
-  ## Usage 
-
-  Add Screenshots here
 
   ## Credits
 
