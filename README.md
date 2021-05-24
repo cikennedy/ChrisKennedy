@@ -3,7 +3,7 @@
 
   ## Description
 
-  This is an updated version of my professional portfolio featuring a cleaner feel, mobile compatability, and new projects.
+  This is an updated version of my professional portfolio featuring a cleaner feel, stronger responsive/mobile compatability, and new projects.
 
   ## Table of Contents
 

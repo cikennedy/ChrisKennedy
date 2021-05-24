@@ -132,17 +132,6 @@ section {
     padding-bottom: 20px;
 }
 
-/* .about .title::before {
-    content: "";
-    position: absolute;
-    bottom: 0px;
-    left: 50%;
-    width: 180px;
-    height: 3px;
-    background: var(--quarternary);
-    transform: translateX(-50%)
-} */
-
 .about .about-content {
     display: flex;
     align-items: center;
@@ -385,19 +374,6 @@ section {
 
 /* Responsive Media */
 
-/* To Do:
-- Responsive media for all sections as it is not properly working when tested. 
-    - Home section, Header and hamburger menu itself are okay
-    - About section looks terrible 
-    - Skills section needs a small amount of work as the list is too close/looks awkward to the photo
-- Hamburger menu does not work the way I had intended it to, there are issues with it 
-- Change wording on home page 
-- About me section may need to be formatted differently from the div text, line breaks, etc. 
-- Clean up CSS for items that are identical
-
-
-*/
-
 @media (max-width: 1100px) {
     .about .about-content .left img{
         height: 350px;
@@ -515,13 +491,5 @@ section {
     .skills .skills-content .left .text{
         font-size: 19px;
     }
-    /* .scroll-up-btn{
-        right: 15px;
-        bottom: 15px;
-        height: 38px;
-        width: 35px;
-        font-size: 23px;
-        line-height: 38px;
-    } */
 }
 
