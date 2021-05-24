@@ -79,7 +79,7 @@
 
 .home {
   display: flex;
-  background: url("/updated-portfolio/assets/images/bosco-shots-P3BtPkyVeUU-unsplash.jpg") no-repeat
+  background: url("../images/bosco-shots-P3BtPkyVeUU-unsplash.jpg") no-repeat
     center;
   height: 100vh;
   color: var(--primary);
