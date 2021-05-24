@@ -27,6 +27,7 @@
   * [Joan Gamell - Unsplash](https://unsplash.com/photos/ZS67i1HLllo)
   * [Bosco Shots - Unsplash](https://unsplash.com/photos/P3BtPkyVeUU)
   * [Owl Carousel](https://cdnjs.com/libraries/OwlCarousel2)
+  * [Roboto - Google Fonts](https://fonts.google.com/specimen/Roboto)
 
   ## License
 

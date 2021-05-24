@@ -397,7 +397,6 @@ section {
 - Change wording on home page 
 - About me section may need to be formatted differently from the div text, line breaks, etc. 
 - Clean up CSS for items that are identical
-- Decide whether or not the items on the carousel should auto play
 
 
 */
@@ -412,6 +411,11 @@ section {
 @media (max-width: 991px) {
     .max-width{
         padding: 0 50px;
+    }
+    .contact .contact-content {
+        display: block;
+        align-items: center;
+        justify-content: space-between;
     }
 }
 @media (max-width: 947px){
