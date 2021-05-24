@@ -385,6 +385,22 @@ section {
 
 /* Responsive Media */
 
+/* To Do:
+- Responsive media for all sections as it is not properly working when tested. 
+    - Home section, Header and hamburger menu itself are okay
+    - About section looks terrible 
+    - Skills section needs a small amount of work as the list is too close/looks awkward to the photo
+    - Work section is great! 
+    - Contact section needs to flow similar to the work section where only one or two of the contact options are listed at a time
+    - List contact section as a column in responsive media? 
+- Carousel cards are not the same height unless media queried 
+- Hamburger menu does not work the way I had intended it to, there are issues with it 
+- Change wording on home page 
+- About me section may need to be formatted differently from the div text, line breaks, etc. 
+- Clean up CSS for items that are identical
+
+*/
+
 @media (max-width: 1104px) {
     .about .about-content .left img{
         height: 350px;
