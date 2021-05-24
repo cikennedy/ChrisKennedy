@@ -23,9 +23,10 @@
 
   ## Credits
 
-  [Coding Nepal](https://www.youtube.com/watch?v=tcskp-ncN0I)
-  [Joan Gamell - Unsplash](https://unsplash.com/photos/ZS67i1HLllo)
-  [Bosco Shots - Unsplash](https://unsplash.com/photos/P3BtPkyVeUU)
+  * [Coding Nepal](https://www.youtube.com/watch?v=tcskp-ncN0I)
+  * [Joan Gamell - Unsplash](https://unsplash.com/photos/ZS67i1HLllo)
+  * [Bosco Shots - Unsplash](https://unsplash.com/photos/P3BtPkyVeUU)
+  * [Owl Carousel](https://cdnjs.com/libraries/OwlCarousel2)
 
   ## License
 
