@@ -7,11 +7,20 @@ $(document).ready(function(){
     }
   });
 
-  // menu/navbar script 
-  $('.menu-btn').click(function(){
-    $('.navbar .menu').toggleClass('active');
-    $('.menu-btn i').toggleClass('active');
+  // menu/navbar script that closes out menu on click
+  $('.menu-btn').on('click', function() {
+    $('.navbar .menu').addClass('active');
+    $('menu-btn i').addClass('active');
   });
+
+  $('.navbar a').on('click', function() {
+    $('.navbar .menu').removeClass('active')
+  });
+
+  // $('.menu-btn').click(function(){
+  //   $('.navbar .menu').toggleClass('active');
+  //   $('.menu-btn i').toggleClass('active');
+  // });
 
   // owl carousel script 
   $('.carousel').owlCarousel({
