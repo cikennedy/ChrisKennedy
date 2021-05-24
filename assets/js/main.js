@@ -18,6 +18,7 @@ $(document).ready(function(){
     margin: 20,
     loop: true,
     autoplay: true,
+    autoplaySpeed: 3500,
     autoplayTimeOut: 2000,
     autoplayHoverPause: true,
     responsive: {
