@@ -7,8 +7,6 @@
 
   ## Table of Contents
 
-  * [Installation](#installation)
-
   * [Usage](#usage)
 
   * [Credits](#credits)
@@ -17,25 +15,17 @@
 
   * [Badges](#badges)
 
-  * [Features](#features)
-
-  * [Contribution](#contribution)
-
-  * [Tests](#tests)
-
   * [Questions](#questions)
 
-  ## Installation
+  ## Usage 
 
-  For this project to run properly, install the necessary dependencies by using the following terminal command: N/A
-
-  ## Usage
-
-  N/A
+  Add Screenshots here
 
   ## Credits
 
-  N/A
+  [Coding Nepal](https://www.youtube.com/watch?v=tcskp-ncN0I)
+  [Joan Gamell - Unsplash](https://unsplash.com/photos/ZS67i1HLllo)
+  [Bosco Shots - Unsplash](https://unsplash.com/photos/P3BtPkyVeUU)
 
   ## License
 
@@ -44,18 +34,6 @@
   ## Badges
 
   ![GitHub License](https://img.shields.io/badge/license-MIT-yellow.svg)
-
-  ## Features
-
-  N/A
-
-  ## Contribution
-
-  N/A
-
-  ## Tests
-
-  N/A
 
   ## Questions
 
